@@ -1,7 +1,6 @@
 # Onelink
- link-in-bio tool, where the data lives in the URL.
+ link-in-bio tool, where the data lives in the URL.<br>
  ![Screenshot 2023-10-07 at 00 31 55](https://github.com/sudo-self/onelink-serverless-data/assets/119916323/74d1fa12-e2d4-4881-b73d-2561ae1547d7)
- **Note**
 ## Since the URL can become very long, it's better to use a link shortener like [https://dub.co](https://t.ly/ki4JW)
 
 [
