@@ -38,7 +38,7 @@
           <icon name="ph:paper-plane-tilt-bold" class="h-4 w-4" />
         </button>
         <a
-          href="https://github.com/sudo-self/onelink"
+          href="https://github.com/sudo-self/vue-js-link-in-bio"
           target="_blank"
           class="h-12 flex items-center space-x-2 px-4 border-r text-xs font-medium bg-white text-slate-700"
         >
