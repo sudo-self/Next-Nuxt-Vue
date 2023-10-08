@@ -1,4 +1,4 @@
-# <a href="https://one.jessejesse.com">link-in-bio</a><---Create a URL
+# Create a<a href="https://one.jessejesse.com">link-in-bio</a>and recieve your URL
 serverless link-in-bio tool where the data is in the URL.<br><br>
 ![Screenshot 2023-10-07 at 00 31 55](https://github.com/sudo-self/onelink/assets/119916323/358848c5-59bc-4575-bbef-9bd53ab4a1f5)
 
