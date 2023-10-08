@@ -1,4 +1,4 @@
-# <a href="https://rb.gy/ughkq">base64</a>
+# <a href="https://one.jessejesse.com">create your URL</a>
 serverless link-in-bio tool where the data is in the URL.<br><br>
 ![Screenshot 2023-10-07 at 00 31 55](https://github.com/sudo-self/onelink/assets/119916323/358848c5-59bc-4575-bbef-9bd53ab4a1f5)
 
