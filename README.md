@@ -1,7 +1,7 @@
 # JAVA TEMPLATES
-### https://vue.jessejesse.com
-### https://nuxt.jessejesse.com
-### https://next.jessejesse.com
+### <a href="https://vue.jessejesse.com">VUE</a>
+### <a href="https://nuxt.jessejesse.com">NUXT</a>
+### <a href="https://next.jessejesse.com">NEXT</a>
 
 
 ## create a your own&nbsp;<a href="https://one.jessejesse.com">link-in-bio</a>&nbsp;&nbsp;[![pages-build-deployment](https://github.com/sudo-self/link-in-bio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sudo-self/link-in-bio/actions/workflows/pages/pages-build-deployment)[![Deploy Nuxt site to Pages](https://github.com/sudo-self/nuxt-ai-chatbot/actions/workflows/nuxtjs.yml/badge.svg)](https://github.com/sudo-self/nuxt-ai-chatbot/actions/workflows/nuxtjs.yml)
