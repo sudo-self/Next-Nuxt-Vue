@@ -1,4 +1,4 @@
-# JAVA TEMPLATES [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/sudo-self/Next-Nuxt-Vue)<hr>
+# [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/sudo-self/Next-Nuxt-Vue)<hr>
 ### <a href="https://vue.jessejesse.com">VUE</a>
 ### <a href="https://nuxt.jessejesse.com">NUXT</a>
 ### <a href="https://next.jessejesse.com">NEXT</a>
